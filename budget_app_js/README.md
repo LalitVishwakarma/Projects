@@ -1,0 +1,1 @@
+This is an front end application, where user can add earnings and expenses and calculate the budget.

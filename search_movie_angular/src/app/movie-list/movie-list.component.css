@@ -1,0 +1,31 @@
+#movie {
+    /* border: 1px solid; */
+    /* padding: 10px; */
+    height: 280px;
+    /* box-shadow: 5px 10px 8px #888888; */
+}
+
+.padding-left-right {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.btn-margin {
+    margin-top: 8%;
+    /* margin-bottom: 3%; */
+    position: absolute;
+    bottom: 10px;
+}
+
+.movie-color {
+    background-color: white !important;
+}
+
+.paging {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.search {
+    margin-bottom: 60px;
+}

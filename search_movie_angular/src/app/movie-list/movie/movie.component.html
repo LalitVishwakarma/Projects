@@ -1,0 +1,20 @@
+<div id="movie" class="col-xs-12 col-md-2 padding-left-right" style="background-color:white;margin-left:3%">
+
+    <div class="col-xs-12 col-md-12 text-center ">
+        {{movie.name | slice:0:17 }}
+        <span *ngIf="movie.name.length>17">...</span>
+    </div>
+
+    <div class="col-xs-12 col-md-12 padding-left-right" style="margin-top:3%">
+        <img [src]="movie.image" alt="" width="100%" height="200px%">
+    </div>
+
+    <div class="col-xs-12 col-md-12 btn-margin">
+        <div class="col-xs-6 col-md-6">
+            <button type="button" class="btn movie-color">LIKE</button>
+        </div>
+        <div class="col-xs-6 col-md-6">
+            <button type="button" class="btn movie-color">OWN</button>
+        </div>
+    </div>
+</div>

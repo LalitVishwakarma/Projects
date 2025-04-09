@@ -1,0 +1,2 @@
+This is game UI which 2 people can play.
+"Pig" is a simple, jeopardy dice game where players take turns rolling a die (or two dice in some variations) to score points, with the goal of being the first to reach a target score (typically 100). 

@@ -1,0 +1,21 @@
+#movie {
+    border: 1px solid;
+    height: 280px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.padding-left-right {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.btn-margin {
+    margin-top: 8%;
+    /* margin-bottom: 3%; */
+    position: absolute;
+    bottom: 10px;
+}
+
+.movie-color {
+    background-color: white !important;
+}
